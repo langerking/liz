@@ -17,9 +17,9 @@
 <ul>
   <li>A message or phone call would be nice</li>
   <li>Warm thoughts</li>
-  <li>Snail Mail. ( I love cards! )........................<img align="middle" height="50" src=" https://media.tenor.com/1ELfpWaAkEwAAAAC/mail.gif" alt="snail carrying bags of mail on it's back"/></li>
+  <li>Snail Mail. ( I love cards! )........................</li>
 </ul>
-
+<img align="middle" height="50" src=" https://media.tenor.com/1ELfpWaAkEwAAAAC/mail.gif" alt="snail carrying bags of mail on it's back"/>
 <h3>"Just remember, once you're over the hill you begin to pick up speed." - Charles Schulz</h3>
 
 <h2>Here's where to direct Good Carma:</h2>
